@@ -5,7 +5,7 @@ const HeroSection = () => {
         <section>
             <h1 className="text-white">Hey Sexy</h1>
             <h2>Can't believe it</h2> 
-            <p>This is rediculous I'm bad at coding</p>
+            <p>I need to follow along with this tutorial so that I can start building on my own. </p>
         </section>
     )
 }
